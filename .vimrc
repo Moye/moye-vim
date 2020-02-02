@@ -52,7 +52,7 @@ Plug 'kien/ctrlp.vim'
 Plug 'easymotion/vim-easymotion'
 Plug 'tpope/vim-surround'
 Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
-Plug 'junegunn/fzf'
+Plug 'junegunn/fzf.vim'
 Plug 'brooth/far.vim'
 Plug 'lfv89/vim-interestingwords'
 
